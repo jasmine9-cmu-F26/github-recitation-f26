@@ -1,2 +1,2 @@
 # github-recitation-f26
-In-n-out has the best burgers!
+Shake Shack has the best burgers!
